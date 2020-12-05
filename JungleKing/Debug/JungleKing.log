@@ -1,0 +1,52 @@
+﻿  JungleKingFormulario.cpp
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloLianas.h(27): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloLianas.h(32): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloArmas.h(23): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloArmas.h(28): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CJugador.h(63): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloRocas.h(24): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloRocas.h(29): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloRocas.h(34): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloEnemigoNativo.h(23): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloEnemigoNativo.h(28): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloBurbujas.h(21): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloBurbujas.h(26): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloBurbujas.h(42): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloTiburon.h(21): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloTiburon.h(26): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloTiburon.h(42): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\JungleKingFormulario.h(72): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+  Main.cpp
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloLianas.h(27): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloLianas.h(32): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloArmas.h(23): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloArmas.h(28): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CJugador.h(63): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloRocas.h(24): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloRocas.h(29): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloRocas.h(34): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloEnemigoNativo.h(23): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloEnemigoNativo.h(28): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloBurbujas.h(21): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloBurbujas.h(26): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloBurbujas.h(42): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloTiburon.h(21): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloTiburon.h(26): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\CArregloTiburon.h(42): warning C4018: '<': no coinciden signed/unsigned
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\JungleKingFormulario.h(72): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+  Generando código...
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\cjugador.h(287): warning C4715: 'CJugador::DetectarSiCaeDelFormulario': no todas las rutas de acceso de control devuelven un valor
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\cjugador.h(292): warning C4715: 'CJugador::DetectarSiLlegasAlInicioDelFormulario': no todas las rutas de acceso de control devuelven un valor
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\croca.h(43): warning C4715: 'CRoca::DestruirSiLlegaAlFinal': no todas las rutas de acceso de control devuelven un valor
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\cayudante.h(51): warning C4715: 'CAyudante::LlegoAlFinalDelFormulario': no todas las rutas de acceso de control devuelven un valor
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\cburbuja.h(54): warning C4715: 'CBurbuja::DestruirFinal': no todas las rutas de acceso de control devuelven un valor
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\ctiburon.h(58): warning C4715: 'CTiburon::DestruirFinal': no todas las rutas de acceso de control devuelven un valor
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\cjugador.h(287): warning C4715: 'CJugador::DetectarSiCaeDelFormulario': no todas las rutas de acceso de control devuelven un valor
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\cjugador.h(292): warning C4715: 'CJugador::DetectarSiLlegasAlInicioDelFormulario': no todas las rutas de acceso de control devuelven un valor
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\croca.h(43): warning C4715: 'CRoca::DestruirSiLlegaAlFinal': no todas las rutas de acceso de control devuelven un valor
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\cayudante.h(51): warning C4715: 'CAyudante::LlegoAlFinalDelFormulario': no todas las rutas de acceso de control devuelven un valor
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\cburbuja.h(54): warning C4715: 'CBurbuja::DestruirFinal': no todas las rutas de acceso de control devuelven un valor
+c:\users\pc\desktop\z trabajofinal - 01 - 07 - 2017 integrar salto lianas\jungleking\jungleking\ctiburon.h(58): warning C4715: 'CTiburon::DestruirFinal': no todas las rutas de acceso de control devuelven un valor
+  JungleKingFormulario.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  JungleKing.vcxproj -> C:\Users\Pc\Desktop\z TrabajoFinal - 01 - 07 - 2017 Integrar Salto Lianas\JungleKing\Debug\JungleKing.exe
+  JungleKing.vcxproj -> C:\Users\Pc\Desktop\z TrabajoFinal - 01 - 07 - 2017 Integrar Salto Lianas\JungleKing\Debug\JungleKing.pdb (Partial PDB)
